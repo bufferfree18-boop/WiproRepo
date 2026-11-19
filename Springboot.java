@@ -1,3 +1,3 @@
-print "Hello world"
-
-Hello world
+#!/bin/bash
+echo  "Hello world"
+echo "Changes1"
